@@ -19,7 +19,7 @@ data("iris")
 
 ### Iris: Some advices for this _Shiny app_ and _RStudio presenter_ presentation
 
-This work is simply an exercise about the shiny package and is not exhaustive nor shiny resources nor exploratory analysis. This homework was done for the course "Developing Data Products/Johns Hopkins University/Coursera" and consists of a shiny application and a presentation with the "RStudio Presenter".
+This (work)[https://sergioquadros.shinyapps.io/dev_data/] is simply an exercise about the shiny package and is not exhaustive nor shiny resources nor exploratory analysis. This homework was done for the course "Developing Data Products/Johns Hopkins University/Coursera" and consists of a shiny application and a presentation with the "RStudio Presenter".
 
 We must select at first if you want a histogram or a scatter plot, both coulored by "Species", then:
  
